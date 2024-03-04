@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Gifted_Tech",
-    "theme": "Gifted-Md",
+    "AUTHOR": "Aloro Isaac Brian",
+    "theme": "Zark 😁",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,8 +11,8 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Gifted-Md",
-            "body": "whatsapp User Bot", 
+            "botName": "Zark Bryan Bot",
+            "body": "Zark Bryan", 
             "greet2" : "Thanks To Gifted Tech",
             "pic1": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg", 
             "greet" : "Believe it",
@@ -27,7 +27,7 @@
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by ɢɪғᴛᴇᴅ-ᴍᴅ*",
             "mention": " Please mention My Owner",
-            "title": "Gifted-Md",
+            "title": "Zark",
             "footer": "ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅᵛ²•⁰•⁰ - ²⁰²⁴ \n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o",
             "by": "Made by: ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
